@@ -8,8 +8,8 @@
 > mkdir ~/projects/hello_plugin
 > cd ~/project
 ```
-- [CMakeLists.txt](./CMakeLists.txt) 생성
 - [hello_world.cpp](./hello_world.cpp) 생성
+- [CMakeLists.txt](./CMakeLists.txt) 생성
 
 ## build 방법 
 - build 디렉토리 생성
