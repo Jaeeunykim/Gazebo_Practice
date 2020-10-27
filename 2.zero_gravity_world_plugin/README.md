@@ -34,6 +34,8 @@
 
 ## build 방법 
 ```bash
+> cd ~/projects/zero_gravity/
+> mkdir build
 > cd build
 > cmake ..
 > make
